@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="86289001219214"
+    token="-8526545110444450671"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1573" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="84798413960711"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="85977746811024"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="86289001219214"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

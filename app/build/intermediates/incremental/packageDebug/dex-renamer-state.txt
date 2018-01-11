@@ -1,0 +1,7 @@
+#Wed Jan 10 21:56:44 AMST 2018
+base.0=/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a8b15d0fa14d093cdacd833efa3066f3ed82f8f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8a08a68f75cab950234de20dd0a17f171d31c8cd/classes.dex
+base.1=/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8a08a68f75cab950234de20dd0a17f171d31c8cd
+file.0=/Users/victornaito/AndroidStudioProjects/CampusApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a8b15d0fa14d093cdacd833efa3066f3ed82f8f/classes.dex
